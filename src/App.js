@@ -123,7 +123,7 @@ function App() {
       </nav>
       <main className="flex-1 p-8">
         <h1 className="text-4xl font-extrabold text-center mb-8 text-orange-600 drop-shadow">
-          MERN To-Do App
+          salah To-Do App
         </h1>
         <form
           onSubmit={(e) => {
@@ -211,7 +211,8 @@ function App() {
         </ul>
       </main>
       <footer className="bg-orange-500 text-white p-4 mt-auto text-center shadow-inner">
-        © 2025 Your To-Do App
+        © 2025 salah To-Do App
+            @zella fashion
       </footer>
     </div>
   );
