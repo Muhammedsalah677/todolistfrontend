@@ -13,7 +13,7 @@ export default function Login({ setToken }) {
     setAuthError("");
 
     const response = await fetch(
-      "https://todolistbackend-5b7h.onrender.com//login",
+      "https://todolistbackend-kaoi.onrender.com/login",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
