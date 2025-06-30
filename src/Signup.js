@@ -14,7 +14,7 @@ function Signup() {
     setAuthError("");
     setSuccess(false);
     const response = await fetch(
-      "https://todolistbackend-5b7h.onrender.com/register",
+      "https://todolistbackend-kaoi.onrender.com/register",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
