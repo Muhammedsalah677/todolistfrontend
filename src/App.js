@@ -128,7 +128,7 @@ function App() {
         <form
           onSubmit={(e) => {
             e.preventDefault();
-            addTask(e.target[0].value);
+            addTasks(e.target[0].value);
             e.target[0].value = "";
           }}
           className="mb-6 flex gap-2 justify-center"
