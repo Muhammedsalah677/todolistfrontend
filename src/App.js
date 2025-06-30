@@ -199,7 +199,7 @@ function App() {
                   <option value="high">High</option>
                 </select>
                 <button
-                  onClick={() => deleteTask(task._id)}
+                  onClick={() => deleteTasks(task._id)}
                   className="flex items-center gap-1 px-3 py-1 bg-red-500 hover:bg-red-700 text-white font-semibold rounded-full transition-colors duration-200 ml-2"
                   title="Delete Task"
                 >
