@@ -28,4 +28,10 @@ This is a RESTful API built with *Node.js, **Express, and **MongoDB* using *Mong
 
    ```bash
    https://github.com/muhammedsalah677
- 
+2.install all dependencies:
+3.create a .env file in the root directory and add the following environment variable:
+   port=8080
+   mongo uri=your_mongo_connection_string
+4: run the server
+5:your api will be deployed using render
+
