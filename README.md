@@ -27,5 +27,5 @@ This is a RESTful API built with *Node.js, **Express, and **MongoDB* using *Mong
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/muhammedsalah677/your-repo-name.git
-   cd your-repo-name
+   https://github.com/muhammedsalah677
+ 
